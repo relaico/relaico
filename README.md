@@ -30,6 +30,6 @@ At RelAI, we firmly believe that the future is worth celebrating. We invite you 
 
 Check out our website [www.relai.com](https://www.relai.com) to explore our exceptional services and success stories. Reach out to us at [info@relai.com](mailto:info@relai.com) for inquiries, collaborations, or even just to say hello!
 
-![AI-powered Future]([https://your-image-url.com](https://github.com/relaico))
+![AI-powered Future]((https://github.com/relaico))
 
 Celebrate the future and dare to be the best with AI innovation at RelAI!
