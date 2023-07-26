@@ -1,6 +1,6 @@
 # Welcome to RelAI - Empowering Industries with AI Innovation!
 
-![RelAI Logo](Layer 1 (merged).png)
+![RelAI Logo](logo.png)
 
 ## Who We Are
 
