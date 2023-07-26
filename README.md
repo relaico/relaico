@@ -28,7 +28,7 @@ Our mission is to redefine excellence in the AI realm. We are passionately commi
 
 At RelAI, we firmly believe that the future is worth celebrating. We invite you to join us on this incredible journey where we dare to be the best in AI consulting services. Together, we'll unleash the full potential of AI, driving your business to unprecedented heights.
 
-Check out our website [www.relai.com](https://www.relai.com) to explore our exceptional services and success stories. Reach out to us at [info@relai.com](mailto:info@relai.com) for inquiries, collaborations, or even just to say hello!
+Check out our website [www.relaico.com](https://www.relaico.com) to explore our exceptional services and success stories. Reach out to us at [info@relaico.com](mailto:info@relaico.com) for inquiries, collaborations, or even just to say hello!
 
 ![AI-powered Future]((https://github.com/relaico))
 
